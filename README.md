@@ -1,2 +1,2 @@
 # FCFS-Algorithm-
-It is basically a CPU scheduling algorithm where first coming task will execute first then so on.  
+It is basically a CPU scheduling algorithm where first coming task will execute first then so on. Here full code written in C Language.
